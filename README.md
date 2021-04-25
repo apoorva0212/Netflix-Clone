@@ -1,4 +1,4 @@
-If you want to have a demo of this project please refer, 
+If you want to have a demo of this project please visit, 
 https://netflix-clone-7bb1c.web.app/
 
 # Tools Used?
